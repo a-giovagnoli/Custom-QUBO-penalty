@@ -1,4 +1,4 @@
-# Custom-QUBO-penalties
+# Custom QUBO penalties
 
 Quadratic Unconstrained Binary Optimization (QUBO) problems are combinatorial optimization problems which are classically NP hard but which seem to be solvable through the use of Quantum Computers. 
 
