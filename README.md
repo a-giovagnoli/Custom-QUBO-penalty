@@ -1,6 +1,6 @@
 # Custom QUBO penalties
 
-Quadratic Unconstrained Binary Optimization (QUBO) problems are combinatorial optimization problems which are classically NP hard but which seem to be solvable through the use of Quantum Computers. 
+Quadratic Unconstrained Binary Optimization (QUBO) problems are combinatorial optimization problems which are classically NP hard but which can be solved through the use of Quantum Computers. 
 
 This is a PDF where I sum up an idea that I had to convert a custom constraint given in the form of a truth table into a QUBO penalty.
 Once the constraint has been converted into a penalty it can then be summed (subtracted) to the original objective function that we want to minimize (maximize).
